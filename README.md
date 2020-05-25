@@ -1,4 +1,4 @@
 # 2d-balancer
 A mechatronic project. Balances a steel ball on a touchpad. Arduino Nano and processing driven.
 
-Youtube: https://www.youtube.com/watch?v=JqxbIkc-UUA
+[![2d Balancer](https://img.youtube.com/vi/JqxbIkc-UUA/0.jpg)](https://www.youtube.com/watch?v=JqxbIkc-UUA)
